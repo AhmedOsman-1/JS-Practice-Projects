@@ -1,7 +1,7 @@
 
 
 
-🚀 JavaScript Practice Project
+
 This repository contains my JavaScript practice project focused on improving coding skills, exploring loops, DOM manipulation, and interactive web features.
 
 📋 Features
